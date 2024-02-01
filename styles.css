@@ -1,0 +1,40 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #d5d5d5;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Arial", cursive;
+  text-shadow: 10px 11px 10px #7f7c7c;
+  font-size: 5rem;
+  color: #e12222;
+}
+
+p {
+  font-size: 2rem;
+  color: #1d2351;
+  font-family: "serif", cursive;
+}
+
+img {
+  width: 80%;
+  filter: drop-shadow(20px 16px 10px rgba(54, 51, 51, 0.6));
+}
+
+footer {
+  margin-top: 5%;
+  color: #032d03;
+  text-align: center;
+  font-family: "Arial", cursive;
+}
